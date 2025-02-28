@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plugin_iii", "plugin_iii\plugin_iii.vcxproj", "{AEDC7B0E-9A94-BD5B-039C-96B7EF72584C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plugin_sa", "plugin_sa\plugin_sa.vcxproj", "{E7E89EBA-5353-5331-9C91-04D7083B3186}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plugin_vc", "plugin_vc\plugin_vc.vcxproj", "{4CE99EBA-B853-5331-0192-04D76D3B3186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+		zDebug|Win32 = zDebug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDC7B0E-9A94-BD5B-039C-96B7EF72584C}.Release|Win32.ActiveCfg = Release|Win32
+		{AEDC7B0E-9A94-BD5B-039C-96B7EF72584C}.Release|Win32.Build.0 = Release|Win32
+		{AEDC7B0E-9A94-BD5B-039C-96B7EF72584C}.zDebug|Win32.ActiveCfg = zDebug|Win32
+		{AEDC7B0E-9A94-BD5B-039C-96B7EF72584C}.zDebug|Win32.Build.0 = zDebug|Win32
+		{E7E89EBA-5353-5331-9C91-04D7083B3186}.Release|Win32.ActiveCfg = Release|Win32
+		{E7E89EBA-5353-5331-9C91-04D7083B3186}.Release|Win32.Build.0 = Release|Win32
+		{E7E89EBA-5353-5331-9C91-04D7083B3186}.zDebug|Win32.ActiveCfg = zDebug|Win32
+		{E7E89EBA-5353-5331-9C91-04D7083B3186}.zDebug|Win32.Build.0 = zDebug|Win32
+		{4CE99EBA-B853-5331-0192-04D76D3B3186}.Release|Win32.ActiveCfg = Release|Win32
+		{4CE99EBA-B853-5331-0192-04D76D3B3186}.Release|Win32.Build.0 = Release|Win32
+		{4CE99EBA-B853-5331-0192-04D76D3B3186}.zDebug|Win32.ActiveCfg = zDebug|Win32
+		{4CE99EBA-B853-5331-0192-04D76D3B3186}.zDebug|Win32.Build.0 = zDebug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
